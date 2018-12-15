@@ -1,0 +1,16 @@
+PODS:
+  - devtechieCircularView (0.1.0)
+
+DEPENDENCIES:
+  - devtechieCircularView (from `../`)
+
+EXTERNAL SOURCES:
+  devtechieCircularView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  devtechieCircularView: b2ad0288194e160d944edfa105987d0aedc4620c
+
+PODFILE CHECKSUM: 83d7b472742edaf34f876285acd1eeb1ff1e8567
+
+COCOAPODS: 1.5.3
